@@ -17,6 +17,7 @@ weasyprint = "==51"
 django-rosetta = "==0.9.3"
 django-parler = "==2.0.1"
 django-localflavor = "==3.0.1"
+redis = "==3.4.1"
 
 [requires]
 python_version = "3.8"
